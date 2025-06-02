@@ -9713,12 +9713,6 @@ a.text-dark:hover, a.text-dark:focus {
   }
 }
 
-@font-face {
-  font-family: logoFont;
-  src: url(/font/Bing\ Bam\ Boum.ttf) format('truetype');
-}
-
-
 /********** Custom CSS ************/
 h1,
 h2,

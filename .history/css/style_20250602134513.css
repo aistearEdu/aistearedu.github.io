@@ -9715,7 +9715,7 @@ a.text-dark:hover, a.text-dark:focus {
 
 @font-face {
   font-family: logoFont;
-  src: url(/font/Bing\ Bam\ Boum.ttf) format('truetype');
+  src: url(/font/Bing\ Bam\ Boum.ttf);
 }
 
 
